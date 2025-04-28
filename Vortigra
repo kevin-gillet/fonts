@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'VortigraRegular';
+        src: url('https://github.com/kevin-gillet/fonts/raw/refs/heads/main/Vortigra.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+ /* The following rules are deprecated. */ 
+
+@font-face {
+    font-family: 'Vortigra';
+        src: url('https://github.com/kevin-gillet/fonts/raw/refs/heads/main/Vortigra.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
